@@ -1,8 +1,8 @@
 ##################
 # Personal Setup #
 ##################
-source ../sources/.env
-source ../sources/.aliases
+source ~/.sources/.env
+source ~/.sources/.aliases
 
 # Display for Xming server to run Cypress
 # IP is from `/ipconfig all` on Windows; Hyper-V Virtual Ethernet Adapter
