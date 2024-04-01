@@ -1,0 +1,15 @@
+tunnels:
+    chesshq-front:
+        addr: 5000
+        proto: http
+        hostname: chesshq.ngrok.io
+    chesshq-api:
+        addr: 80
+        proto: http
+        hostname: api.chesshq.ngrok.io
+    invoiced_ai:
+        addr: 80
+        proto: http
+        hostname: invoiced.ngrok.io
+version: "2"
+region: us

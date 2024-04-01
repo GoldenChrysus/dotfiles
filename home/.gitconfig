@@ -1,0 +1,8 @@
+[user]
+	email = 17366720+GoldenChrysus@users.noreply.github.com
+	name = GoldenChrysus
+	signingkey = 5833E7780F3541AA98C2147D1496DCA166209B58
+[commit]
+	gpgsign = true
+[gpg]
+	program = /usr/bin/gpg
