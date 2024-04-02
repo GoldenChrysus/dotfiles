@@ -11,6 +11,8 @@
     ~/.sources: sources/
     ~/.config/ngrok/ngrok.yml: home/.config/ngrok/ngrok.yml
     ~/.config/powerline-shell/config.json: home/.config/powerline-shell/config.json
+    ~/.gnupg/gpg-agent.conf: home/.gnupg/gpg-agent.conf
+    ~/.gnupg/gpg.conf: home/.gnupg/gpg.conf
     ~/.ssh/config: home/.ssh/config
     ~/.gitconfig: home/.gitconfig
     ~/.zshrc: home/.zshrc
