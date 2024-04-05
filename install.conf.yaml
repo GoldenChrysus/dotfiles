@@ -16,3 +16,4 @@
     ~/.ssh/config: home/.ssh/config
     ~/.gitconfig: home/.gitconfig
     ~/.zshrc: home/.zshrc
+    ~/.editorconfig: home/.editorconfig
