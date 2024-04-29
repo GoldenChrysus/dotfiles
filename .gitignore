@@ -1,0 +1,3 @@
+# tmux plugins
+home/.tmux/plugins
+!home/.tmux/plugins/tpm

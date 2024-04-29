@@ -17,3 +17,5 @@
     ~/.gitconfig: home/.gitconfig
     ~/.zshrc: home/.zshrc
     ~/.editorconfig: home/.editorconfig
+    ~/.tmux.conf: home/.tmux.conf
+    ~/.tmux: home/.tmux
