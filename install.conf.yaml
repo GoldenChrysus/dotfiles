@@ -1,16 +1,19 @@
 - defaults:
     link:
-        relink: true
+      relink: true
 
-- clean: ['~']
+- clean: ["~"]
 
 - create:
+    - ~/.config/ngrok
     - ~/.config/powerline-shell
+    - ~/.config/zed
 
 - link:
     ~/.sources: sources/
     ~/.config/ngrok/ngrok.yml: home/.config/ngrok/ngrok.yml
     ~/.config/powerline-shell/config.json: home/.config/powerline-shell/config.json
+    ~/.config/zed/settings.json: home/.config/zed/settings.json
     ~/.gnupg/gpg-agent.conf: home/.gnupg/gpg-agent.conf
     ~/.gnupg/gpg.conf: home/.gnupg/gpg.conf
     ~/.ssh/config: home/.ssh/config
