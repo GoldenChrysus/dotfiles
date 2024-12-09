@@ -9,7 +9,10 @@
 {
   "vim_mode": false,
   "ui_font_size": 16,
-  "buffer_font_size": 16,
+  "buffer_font_size": 14,
+  "inlay_hints": {
+    "enabled": true
+  },
   "theme": {
     "mode": "system",
     "light": "Carbonfox",
@@ -18,6 +21,16 @@
   "lsp": {
     "rust-analyzer": {
       "initialization_options": {
+        "inlayHints": {
+          "maxLength": null,
+          "lifetimeElisionHints": {
+            "useParameterNames": true,
+            "enable": "skip_trivial"
+          },
+          "closureReturnTypeHints": {
+            "enable": "always"
+          }
+        },
         "checkOnSave": {
           "command": "clippy"
         },
