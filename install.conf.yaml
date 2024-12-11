@@ -13,6 +13,7 @@
     ~/.config/ngrok/ngrok.yml: home/.config/ngrok/ngrok.yml
     ~/.config/powerline-shell/config.json: home/.config/powerline-shell/config.json
     ~/.config/zed: home/.config/zed/
+    ~/.config/nvchad: home/.config/nvchad/
     ~/.gnupg/gpg-agent.conf: home/.gnupg/gpg-agent.conf
     ~/.gnupg/gpg.conf: home/.gnupg/gpg.conf
     ~/.ssh/config: home/.ssh/config

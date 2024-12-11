@@ -14,3 +14,6 @@
 [submodule "home/.tmux/plugins/tmux-tokyo-night"]
 	path = home/.tmux/plugins/tmux-tokyo-night
 	url = https://git::@github.com/fabioluciano/tmux-tokyo-night
+[submodule "home/.config/nvchad"]
+	path = home/.config/nvchad
+	url = git@github.com:GoldenChrysus/nvchad.nvim.git
